@@ -134,7 +134,7 @@ body {
   padding: 30px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1150px) {
   .container {
     margin-top: 20%;
     height: 100%;
